@@ -25,7 +25,7 @@ Currently, I'm sharpening my skills at **1337 Coding School (42 Network)**.
 ## 📊 GitHub Stats
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyassLho&theme=dark" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyassLho&theme=dark" />
 </p>
 
 ---
