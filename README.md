@@ -66,8 +66,8 @@ echo $dev->code();
 
 ## ⚡ Fun Fact
 <p>
-  I enjoy the logic of Backend as much as the creativity of Frontend. Sometimes,<br>
-  I even find debugging more satisfying than writing code—because every bug teaches something new.<br>
+  I enjoy the logic of Backend as much as the creativity of Frontend.<br>
+  Sometimes, I even find debugging more satisfying than writing code—because every bug teaches something new.<br>
   For me, a clean database schema is just as beautiful as a pixel-perfect UI. 😄
 </p>
 
